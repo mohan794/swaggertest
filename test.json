@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/mohan794/swaggertest/refs/heads/main/test.yaml",
+    "url": "https://mohan794.github.io/swaggertest/test.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/mohan794/swaggertest/refs/heads/main/test.yaml",
+            "url": "https://mohan794.github.io/swaggertest/test.yaml",
             "name": "Foo"
         }
     ]
